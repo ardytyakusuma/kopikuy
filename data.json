@@ -1,0 +1,80 @@
+{
+    "arabica": [
+        {
+            "foto": "images/produk/product_capuchino.jpg",
+            "nama": "Cappuccino Arabica",
+            "size": "200 ml",
+            "harga": "Rp. 20.000",
+            "link": "https://www.google.com/search?q=cappuccino+arabica&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_espresso.jpg",
+            "nama": "Pahit Arabica",
+            "size": "100 ml",
+            "harga": "Rp. 15.000",
+            "link": "https://www.google.com/search?q=pahit+arabica&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_latte.jpg",
+            "nama": "Latte Arabica",
+            "size": "250 ml",
+            "harga": "Rp.15.000",
+            "link": "https://www.google.com/search?q=latte+arabica&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_kopi_susu.jpg",
+            "nama": "Kopisus Arabica",
+            "size": "250 ml",
+            "harga": "Rp.25.000",
+            "link": "https://www.google.com/search?q=latte+arabica&tbm=shop"
+        }
+    ],
+    "robusta": [
+        {
+            "foto": "images/produk/product_kopi_susu.jpg",
+            "nama": "Kopsus Robusta",
+            "size": "250 ml",
+            "harga": "Rp. 20.000",
+            "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_latte.jpg",
+            "nama": "Latte Robusta",
+            "size": "250 ml",
+            "harga": "Rp. 15.000",
+            "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+        }
+    ],
+    "nonkopi": [
+        {
+            "foto": "images/produk/product_cendol.jpg",
+            "nama": "Es Cendol",
+            "size": "300 ml",
+            "harga": "Rp. 18.000",
+            "link": "https://www.google.com/search?q=cappuccino+arabica&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_cincau.jpg",
+            "nama": "Es Cincau",
+            "size": "300 ml",
+            "harga": "Rp. 18 000",
+            "link": "https://www.google.com/search?q=pahit+arabica&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_thai_tea.jpg",
+            "nama": "Thai Tea",
+            "size": "250 ml",
+            "harga": "Rp. 15.000",
+            "link": "https://www.google.com/search?q=latte+arabica&tbm=shop"
+        }
+    ],
+    "camilan": [
+        {
+            "foto": "images/produk/product_kentang_goreng.jpg",
+            "nama": "Kentang Goreng",
+            "size": "150 Gram",
+            "harga": "Rp. 15.000",
+            "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
+        }
+    ]
+}s
